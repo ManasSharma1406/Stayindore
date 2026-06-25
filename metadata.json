@@ -1,0 +1,6 @@
+{
+  "name": "revistay Indore",
+  "description": "Premium hourly hotel booking service within Indore city limits, supporting flexible 3-hour, 6-hour, and 12-hour stays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
